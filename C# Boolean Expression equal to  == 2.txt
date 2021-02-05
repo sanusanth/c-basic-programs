@@ -1,0 +1,12 @@
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine(10 == 15); // returns False, because 10 is not equal to 15
+    }
+  }
+}
