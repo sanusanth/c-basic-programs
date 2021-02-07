@@ -7,7 +7,7 @@ namespace GetLastName
     static void Main()
     {
       // Full name
-      string name = "John Doe";
+      string name = "Sanu santh";
 
       // Location of the letter D
       int charPos = name.IndexOf("D");
@@ -18,5 +18,5 @@ namespace GetLastName
       // Print the result
       Console.WriteLine(lastName);
     }
-  }
+  } // Creater By Sanusanth
 }
