@@ -14,5 +14,5 @@ namespace MyApplication
       string readText = File.ReadAllText("filename.txt"); // Read the contents of the file
       Console.WriteLine(readText); // Output the content
     }
-  }
+  } // Creater By Sanusanth
 }
